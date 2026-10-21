@@ -16,7 +16,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 ## Status
-![status](images/1.png)
+![status](images/2.png)
 
 ---
 
