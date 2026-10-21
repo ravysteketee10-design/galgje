@@ -4,8 +4,7 @@
 **Spelvolgorde & contact:**
 1. <Aloys 1> – <email1@example.com>
 2. <Jayden 2> – <email2@example.com>
-3. <Nicky 3> – <email3@example.com>
-4. <Kichaira 4> – <email4@example.com>
+3. <Kichaira 3> – <email4@example.com>
 
 ---
 
