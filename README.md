@@ -5,7 +5,7 @@
 1. <Aloys 1> – <email1@example.com>
 2. <Jayden 2> – <email2@example.com>
 3. <Nicky 3> – <email3@example.com>
-4. <Naam 4> – <email4@example.com>
+4. <Kichaira 4> – <email4@example.com>
 
 ---
 
@@ -22,5 +22,4 @@
 
 ## Beurtenlog
 - beurt1: <Aloys> gokt "A"
-- (Git-master vult hier reactie in: goed/fout + updates)
-- beurt2: ...
+- beurt2: <Jayden> gokt "F"
