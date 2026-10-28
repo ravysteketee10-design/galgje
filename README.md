@@ -10,7 +10,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | A | . | . | . | . |
+| . | A | . | . | R | . |
 | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 |
 
@@ -21,5 +21,11 @@
 
 ## Beurtenlog
 - beurt1: <Aloys> gokt "A" * is goed
+<<<<<<< HEAD
 - beurt2: <Jayden> gokt "F" * nuh uh
 - beurt3: <kichaira> gokt "o" 
+=======
+- beurt2: <Jayden> gokt "F" *nuh uh* 
+- beurt3: <kichaira> gokt "O" *nuh uh* 
+- beurt4: <Jayden> gokt "R" * is goed
+>>>>>>> 523a8a53b3128f436e47500009856744d19db6fb
