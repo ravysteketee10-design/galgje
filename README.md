@@ -15,11 +15,11 @@
 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 ## Status
-![status](images/3.png)
+![status](images/2.png)
 
 ---
 
 ## Beurtenlog
 - beurt1: <Aloys> gokt "A" * is goed
-- beurt2: <Jayden> gokt "F" *nuh uh* 
-- beurt3: <kichaira> gokt "O" *nuh uh* 
+- beurt2: <Jayden> gokt "F" * nuh uh
+- beurt3: <kichaira> gokt "o" 
