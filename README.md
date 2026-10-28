@@ -23,5 +23,6 @@
 - beurt1: <Aloys> gokt "A" * is goed
 - beurt2: <Jayden> gokt "F" * nuh uh
 - beurt3: <kichaira> gokt "O" * nuh uh
-- beurt3: <Jayden> gokt "R" * is goed
-- beurt3: <Kichaira> gokt "P" * is fout
+- beurt4: <Jayden> gokt "R" * is goed
+- beurt5: <Kichaira> gokt "P" * is fout
+- beurt6: <Jayden> gokt "M" 
