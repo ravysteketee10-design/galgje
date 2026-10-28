@@ -22,3 +22,4 @@
 ## Beurtenlog
 - beurt1: <Aloys> gokt "A"
 - beurt2: <Jayden> gokt "F"
+- beurt2: <kichaira> gokt "o" 
