@@ -20,6 +20,5 @@
 ---
 
 ## Beurtenlog
-- beurt1: <Aloys> gokt "A"
-- beurt2: <Jayden> gokt "F"
-- beurt3: test
+- beurt1: <Aloys> gokt "A" * is goed
+- beurt2: <Jayden> gokt "F" * nuh uh
