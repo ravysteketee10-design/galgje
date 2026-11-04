@@ -15,7 +15,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 ## Status
-![status](images/4.png)
+![status](images/5.png)
 
 ---
 
@@ -25,4 +25,4 @@
 - beurt3: <kichaira> gokt "O" * nuh uh
 - beurt4: <Jayden> gokt "R" * is goed
 - beurt5: <Kichaira> gokt "P" * is fout
-- beurt6: <Jayden> gokt "M" 
+- beurt6: <Jayden> gokt "M" * is fout
